@@ -22,9 +22,7 @@ Feel free to explore my public projects, leave comments, or reach out!
 ### 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shibeinu3110&show_icons=true&theme=graywhite&rank_icon=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shibeinu3110&hide_progress=true)
-<div align="center">
-    <img src="https://raw.githubusercontent.com/shibeinu3110/shibeinu3110/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
+
 ---
 
 ### 🛠️ Languages and Tools
