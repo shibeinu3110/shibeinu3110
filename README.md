@@ -20,7 +20,7 @@ Feel free to explore my public projects, leave comments, or reach out!
 ---
 
 ### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shibeinu3110&show_icons=true&theme=graywhite&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shibeinu3110&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shibeinu3110&hide_progress=true)
 
 ---
