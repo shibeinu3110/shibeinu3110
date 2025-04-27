@@ -13,9 +13,9 @@ Feel free to explore my public projects, leave comments, or reach out!
 ### 🚀 Skills & Abilities
 
 - **Programming Languages**: Java  
-- **Libraries/Frameworks**: Spring Boot (Validation, Data JPA, etc.)  
-- **Databases**: MySQL, PostgreSQL, Redis  
-- **Tools**: IntelliJ IDEA, Postman, Insomnia, MySQL Workbench, pgAdmin4, Docker Desktop, ELK (ElasticSearch, Logstash, Kibana), SonarQube, GitHub, GitLab  
+- **Libraries/Frameworks**: Spring Boot (Validation, Data JPA, etc.).
+- **Databases**: MySQL, PostgreSQL, Redis.
+- **Tools**: IntelliJ IDEA, Postman, Insomnia, MySQL Workbench, pgAdmin4, Docker Desktop, GitHub, VSCode. 
 
 ---
 
@@ -33,7 +33,7 @@ Feel free to explore my public projects, leave comments, or reach out!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" style="margin: 0 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" style="margin: 0 10px;" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" style="margin: 0 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40" alt="Elasticsearch" style="margin: 0 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" style="margin: 0 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
 </p>
+![Shiba's GIF](https://miro.medium.com/v2/resize:fit:640/format:webp/1*dXCMjbZeIB_Afn8Sn53HeA.gif)
