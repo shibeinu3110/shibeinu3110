@@ -37,7 +37,7 @@ Feel free to explore my public projects, leave comments, or reach out!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
 </p>
 
-<p align="left">
-  <img src="https://i.imgur.com/M8l2k54.gif" width="200" alt="Shiba's GIF" />
+<p align="center">
+  <img src="https://i.imgur.com/M8l2k54.gif" width="500" alt="Shiba's GIF" />
 </p>
 
