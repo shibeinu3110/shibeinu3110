@@ -36,4 +36,4 @@ Feel free to explore my public projects, leave comments, or reach out!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" style="margin: 0 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
 </p>
-![Shiba's GIF](https://miro.medium.com/v2/resize:fit:640/format:webp/1*dXCMjbZeIB_Afn8Sn53HeA.gif)
+![Shiba's GIF](https://imgur.com/a/LPBtBLV)
